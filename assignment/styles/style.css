@@ -1,1 +1,8 @@
 /* give your assignment a fun background color */
+/* I don't love bright colors for websites so i will choose a "fun" muted color */
+
+body {
+    background-color: #4e81cf;
+    color: #e9e4e4;
+}
+
